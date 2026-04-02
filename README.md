@@ -2,7 +2,7 @@
 
 ## STM32 UART Bootloader with CRC Validation
 
-A custom bootloader for STM32 microcontrollers built using the STM32 HAL library. This project enables reliable firmware updates over UART with integrity verification using CRC and a structured firmware image format.
+A custom bootloader for STM32 microcontroller (STM32L476RG) built using the STM32 HAL library. This project enables reliable firmware updates over UART with integrity verification using CRC and a structured firmware image format.
 
 **📌 Features**
 - 🚀 UART-based firmware update mechanism
